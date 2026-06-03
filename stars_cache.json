@@ -1,0 +1,2030 @@
+[
+  {
+    "id": 1253638707,
+    "name": "AITabby/opencodex",
+    "html_url": "https://github.com/AITabby/opencodex",
+    "description": "Local gateway for Codex Desktop — custom API, web dashboard, Vision Bridge",
+    "language": "TypeScript",
+    "tags": [
+      "Codex",
+      "Agent",
+      "TypeScript"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 1252289708,
+    "name": "Sophomoresty/gemini-web2api",
+    "html_url": "https://github.com/Sophomoresty/gemini-web2api",
+    "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
+    "language": "Python",
+    "tags": [
+      "Gemini",
+      "API",
+      "Python"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 1251263546,
+    "name": "op7418/guizang-social-card-skill",
+    "html_url": "https://github.com/op7418/guizang-social-card-skill",
+    "description": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对",
+    "language": "HTML",
+    "tags": [
+      "Claude",
+      "Skill",
+      "HTML"
+    ],
+    "category": "AI Agent Skills"
+  },
+  {
+    "id": 1197021090,
+    "name": "ultraworkers/claw-code",
+    "html_url": "https://github.com/ultraworkers/claw-code",
+    "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
+    "language": "Rust",
+    "tags": [
+      "Codex",
+      "Rust"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 1251775733,
+    "name": "helloianneo/ian-xiaohei-illustrations",
+    "html_url": "https://github.com/helloianneo/ian-xiaohei-illustrations",
+    "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
+    "language": "Unknown",
+    "tags": [
+      "Codex",
+      "Skill"
+    ],
+    "category": "AI Agent Skills"
+  },
+  {
+    "id": 1156960719,
+    "name": "millionco/react-doctor",
+    "html_url": "https://github.com/millionco/react-doctor",
+    "description": "Your agent writes bad React. This catches it",
+    "language": "TypeScript",
+    "tags": [
+      "React",
+      "TypeScript",
+      "Linter"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 1073224021,
+    "name": "EveryInc/compound-engineering-plugin",
+    "html_url": "https://github.com/EveryInc/compound-engineering-plugin",
+    "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+    "language": "TypeScript",
+    "tags": [
+      "Claude",
+      "Cursor",
+      "Plugin"
+    ],
+    "category": "Claude & IDE Plugins"
+  },
+  {
+    "id": 1155501359,
+    "name": "dexhunter/seedance2-skill",
+    "html_url": "https://github.com/dexhunter/seedance2-skill",
+    "description": "skill to create best prompts for generating videos with seedance2.0",
+    "language": "Unknown",
+    "tags": [
+      "Video",
+      "Prompt",
+      "Skill"
+    ],
+    "category": "AI Video Generation"
+  },
+  {
+    "id": 1132020002,
+    "name": "geekjourneyx/md2wechat-skill",
+    "html_url": "https://github.com/geekjourneyx/md2wechat-skill",
+    "description": "Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布",
+    "language": "Go",
+    "tags": [
+      "WeChat",
+      "Markdown",
+      "Go"
+    ],
+    "category": "Markdown & Publishing"
+  },
+  {
+    "id": 1166408297,
+    "name": "rohitg00/agentmemory",
+    "html_url": "https://github.com/rohitg00/agentmemory",
+    "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
+    "language": "TypeScript",
+    "tags": [
+      "Agent",
+      "Memory",
+      "TypeScript"
+    ],
+    "category": "Agent Memory Systems"
+  },
+  {
+    "id": 1135780218,
+    "name": "krishnakanthb13/antigravity_phone_chat",
+    "html_url": "https://github.com/krishnakanthb13/antigravity_phone_chat",
+    "description": "A compact, real-time mobile interface that lets you monitor and interact with Antigravity chats on the go.",
+    "language": "JavaScript",
+    "tags": [
+      "Antigravity",
+      "Web",
+      "Mobile"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 1177729136,
+    "name": "L1M80/porta",
+    "html_url": "https://github.com/L1M80/porta",
+    "description": "Mobile PWA for Antigravity via LSP bridge. No cloud, no screen sharing.",
+    "language": "TypeScript",
+    "tags": [
+      "Antigravity",
+      "PWA",
+      "TypeScript"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 1012087571,
+    "name": "router-for-me/CLIProxyAPI",
+    "html_url": "https://github.com/router-for-me/CLIProxyAPI",
+    "description": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API",
+    "language": "Go",
+    "tags": [
+      "API",
+      "Proxy",
+      "Go"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 1136666433,
+    "name": "blader/humanizer",
+    "html_url": "https://github.com/blader/humanizer",
+    "description": "Claude Code skill that removes signs of AI-generated writing from text",
+    "language": "Unknown",
+    "tags": [
+      "Claude",
+      "Skill",
+      "AI-Writing"
+    ],
+    "category": "AI Writing & Editing"
+  },
+  {
+    "id": 1166182351,
+    "name": "raullenchai/Rapid-MLX",
+    "html_url": "https://github.com/raullenchai/Rapid-MLX",
+    "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
+    "language": "Python",
+    "tags": [
+      "MLX",
+      "Apple Silicon",
+      "Python"
+    ],
+    "category": "AI Inference Engines"
+  },
+  {
+    "id": 1118601518,
+    "name": "Wei-Shaw/sub2api",
+    "html_url": "https://github.com/Wei-Shaw/sub2api",
+    "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+    "language": "Go",
+    "tags": [
+      "API",
+      "Subscription",
+      "Go"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 1142983825,
+    "name": "multica-ai/andrej-karpathy-skills",
+    "html_url": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+    "language": "Unknown",
+    "tags": [
+      "Claude",
+      "Skills",
+      "Karpathy"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 1113573066,
+    "name": "hugohe3/ppt-master",
+    "html_url": "https://github.com/hugohe3/ppt-master",
+    "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+    "language": "Python",
+    "tags": [
+      "PPT",
+      "Python",
+      "Audio"
+    ],
+    "category": "AI Document & Slide Gen"
+  },
+  {
+    "id": 1219042200,
+    "name": "op7418/guizang-ppt-skill",
+    "html_url": "https://github.com/op7418/guizang-ppt-skill",
+    "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
+    "language": "HTML",
+    "tags": [
+      "HTML",
+      "Slide",
+      "Skill"
+    ],
+    "category": "AI Document & Slide Gen"
+  },
+  {
+    "id": 1164832776,
+    "name": "cft0808/edict",
+    "html_url": "https://github.com/cft0808/edict",
+    "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
+    "language": "Python",
+    "tags": [
+      "Multi-Agent",
+      "Orchestration",
+      "Python"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 1196263578,
+    "name": "one-theone/pocketcode",
+    "html_url": "https://github.com/one-theone/pocketcode",
+    "description": "Android remote dev workstation for Claude Code / AI-assisted programming",
+    "language": "Java",
+    "tags": [
+      "Android",
+      "Remote-Dev",
+      "Java"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 1177402105,
+    "name": "heygen-com/hyperframes",
+    "html_url": "https://github.com/heygen-com/hyperframes",
+    "description": "Write HTML. Render video. Built for agents.",
+    "language": "TypeScript",
+    "tags": [
+      "HTML",
+      "Video",
+      "TypeScript"
+    ],
+    "category": "AI Video Generation"
+  },
+  {
+    "id": 1154240940,
+    "name": "Loongphy/codex-auth",
+    "html_url": "https://github.com/Loongphy/codex-auth",
+    "description": "A CLI tool to switch and manage Codex accounts",
+    "language": "Zig",
+    "tags": [
+      "Codex",
+      "CLI",
+      "Zig"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 1024554267,
+    "name": "NousResearch/hermes-agent",
+    "html_url": "https://github.com/NousResearch/hermes-agent",
+    "description": "The agent that grows with you",
+    "language": "Python",
+    "tags": [
+      "Agent",
+      "Python",
+      "Hermes"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 1201656210,
+    "name": "MemPalace/mempalace",
+    "html_url": "https://github.com/MemPalace/mempalace",
+    "description": "The best-benchmarked open-source AI memory system. And it's free.",
+    "language": "Python",
+    "tags": [
+      "Agent",
+      "Memory",
+      "Python"
+    ],
+    "category": "Agent Memory Systems"
+  },
+  {
+    "id": 1148052330,
+    "name": "Yeachan-Heo/oh-my-codex",
+    "html_url": "https://github.com/Yeachan-Heo/oh-my-codex",
+    "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+    "language": "TypeScript",
+    "tags": [
+      "Codex",
+      "Hooks",
+      "TypeScript"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 1190363679,
+    "name": "HKUDS/OpenSpace",
+    "html_url": "https://github.com/HKUDS/OpenSpace",
+    "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
+    "language": "Python",
+    "tags": [
+      "Agent",
+      "Python",
+      "Evolution"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 1185254260,
+    "name": "ind-igo/cx",
+    "html_url": "https://github.com/ind-igo/cx",
+    "description": "Semantic code navigation for AI agents",
+    "language": "Rust",
+    "tags": [
+      "Navigation",
+      "Rust",
+      "Agent"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 1144115288,
+    "name": "manaflow-ai/cmux",
+    "html_url": "https://github.com/manaflow-ai/cmux",
+    "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+    "language": "Swift",
+    "tags": [
+      "Terminal",
+      "Swift",
+      "macOS"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 724854743,
+    "name": "ml-explore/mlx",
+    "html_url": "https://github.com/ml-explore/mlx",
+    "description": "MLX: An array framework for Apple silicon",
+    "language": "C++",
+    "tags": [
+      "MLX",
+      "Apple Silicon",
+      "C++"
+    ],
+    "category": "AI Inference Engines"
+  },
+  {
+    "id": 979115477,
+    "name": "bytedance/deer-flow",
+    "html_url": "https://github.com/bytedance/deer-flow",
+    "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+    "language": "Python",
+    "tags": [
+      "SuperAgent",
+      "Orchestration",
+      "Python"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 1179264259,
+    "name": "garrytan/gstack",
+    "html_url": "https://github.com/garrytan/gstack",
+    "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+    "language": "TypeScript",
+    "tags": [
+      "Claude",
+      "Setup",
+      "TypeScript"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 1075372545,
+    "name": "msitarzewski/agency-agents",
+    "html_url": "https://github.com/msitarzewski/agency-agents",
+    "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+    "language": "Shell",
+    "tags": [
+      "Agency",
+      "Orchestration",
+      "Shell"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 1062458369,
+    "name": "alibaba/page-agent",
+    "html_url": "https://github.com/alibaba/page-agent",
+    "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+    "language": "TypeScript",
+    "tags": [
+      "GUI",
+      "Web-Agent",
+      "TypeScript"
+    ],
+    "category": "Web Agents"
+  },
+  {
+    "id": 1164477708,
+    "name": "mksglu/context-mode",
+    "html_url": "https://github.com/mksglu/context-mode",
+    "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
+    "language": "TypeScript",
+    "tags": [
+      "Context",
+      "Optimization",
+      "TypeScript"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 1164125099,
+    "name": "wanikua/danghuangshang",
+    "html_url": "https://github.com/wanikua/danghuangshang",
+    "description": "AI 朝廷搭建完整教程 - 从零基础到进阶",
+    "language": "TypeScript",
+    "tags": [
+      "Guide",
+      "Tutorial",
+      "TypeScript"
+    ],
+    "category": "AI Instruction & Guides"
+  },
+  {
+    "id": 1163358617,
+    "name": "agentscope-ai/HiClaw",
+    "html_url": "https://github.com/agentscope-ai/HiClaw",
+    "description": "An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.",
+    "language": "Go",
+    "tags": [
+      "Collaborative",
+      "Matrix",
+      "Go"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 1117388084,
+    "name": "happier-dev/happier",
+    "html_url": "https://github.com/happier-dev/happier",
+    "description": "Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted",
+    "language": "TypeScript",
+    "tags": [
+      "Codex",
+      "Claude",
+      "Client"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 1166139870,
+    "name": "RightNow-AI/openfang",
+    "html_url": "https://github.com/RightNow-AI/openfang",
+    "description": "Open-source Agent Operating System",
+    "language": "Rust",
+    "tags": [
+      "Agent-OS",
+      "Rust"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 1031059905,
+    "name": "abhigyanpatwari/GitNexus",
+    "html_url": "https://github.com/abhigyanpatwari/GitNexus",
+    "description": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
+    "language": "TypeScript",
+    "tags": [
+      "Knowledge-Graph",
+      "RAG",
+      "TypeScript"
+    ],
+    "category": "AI Code Understanding"
+  },
+  {
+    "id": 1165277268,
+    "name": "Panniantong/Agent-Reach",
+    "html_url": "https://github.com/Panniantong/Agent-Reach",
+    "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+    "language": "Python",
+    "tags": [
+      "CLI",
+      "Scraper",
+      "Python"
+    ],
+    "category": "Web Agents"
+  },
+  {
+    "id": 931888694,
+    "name": "cjpais/Handy",
+    "html_url": "https://github.com/cjpais/Handy",
+    "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
+    "language": "Rust",
+    "tags": [
+      "Speech-to-Text",
+      "Offline",
+      "Rust"
+    ],
+    "category": "Offline Utilities"
+  },
+  {
+    "id": 1112365301,
+    "name": "tobi/qmd",
+    "html_url": "https://github.com/tobi/qmd",
+    "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
+    "language": "TypeScript",
+    "tags": [
+      "Search-Engine",
+      "Local",
+      "TypeScript"
+    ],
+    "category": "Offline Utilities"
+  },
+  {
+    "id": 1149071982,
+    "name": "BlockRunAI/ClawRouter",
+    "html_url": "https://github.com/BlockRunAI/ClawRouter",
+    "description": "The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana via x402.",
+    "language": "TypeScript",
+    "tags": [
+      "Router",
+      "Payments",
+      "TypeScript"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 1130809465,
+    "name": "Yeachan-Heo/oh-my-claudecode",
+    "html_url": "https://github.com/Yeachan-Heo/oh-my-claudecode",
+    "description": "Teams-first Multi-agent orchestration for Claude Code",
+    "language": "TypeScript",
+    "tags": [
+      "Claude",
+      "Orchestration",
+      "TypeScript"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 1083162948,
+    "name": "SeemSeam/claude_codex_bridge",
+    "html_url": "https://github.com/SeemSeam/claude_codex_bridge",
+    "description": "Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid with project memory and tmux supervision",
+    "language": "Python",
+    "tags": [
+      "Bridge",
+      "Python",
+      "Orchestration"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 1021895365,
+    "name": "slopus/happy",
+    "html_url": "https://github.com/slopus/happy",
+    "description": "Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured",
+    "language": "TypeScript",
+    "tags": [
+      "Client",
+      "Voice",
+      "TypeScript"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 1103012935,
+    "name": "openclaw/openclaw",
+    "html_url": "https://github.com/openclaw/openclaw",
+    "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
+    "language": "TypeScript",
+    "tags": [
+      "OpenClaw",
+      "TypeScript"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 1130938635,
+    "name": "newtype-01/newtype-os",
+    "html_url": "https://github.com/newtype-01/newtype-os",
+    "description": "AI Agent Collaboration System for Content Creation",
+    "language": "TypeScript",
+    "tags": [
+      "Content-Creation",
+      "TypeScript"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 1113403973,
+    "name": "NoeFabris/opencode-antigravity-auth",
+    "html_url": "https://github.com/NoeFabris/opencode-antigravity-auth",
+    "description": "Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.",
+    "language": "TypeScript",
+    "tags": [
+      "OAuth",
+      "Antigravity",
+      "TypeScript"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 1126133137,
+    "name": "awei84/KiroGate",
+    "html_url": "https://github.com/awei84/KiroGate",
+    "description": "issues pr 请去上游仓库 ",
+    "language": "Python",
+    "tags": [
+      "Python",
+      "Mirror"
+    ],
+    "category": "GitHub Gateways"
+  },
+  {
+    "id": 15216217,
+    "name": "fex-team/kityminder",
+    "html_url": "https://github.com/fex-team/kityminder",
+    "description": "百度脑图",
+    "language": "JavaScript",
+    "tags": [
+      "Mindmap",
+      "JavaScript"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 1106996539,
+    "name": "nextlevelbuilder/ui-ux-pro-max-skill",
+    "html_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+    "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
+    "language": "Python",
+    "tags": [
+      "Design",
+      "UI/UX",
+      "Python"
+    ],
+    "category": "AI Agent Skills"
+  },
+  {
+    "id": 1120349776,
+    "name": "muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "html_url": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
+    "language": "Python",
+    "tags": [
+      "Context",
+      "Skills",
+      "Python"
+    ],
+    "category": "AI Agent Skills"
+  },
+  {
+    "id": 173335706,
+    "name": "apache/dolphinscheduler",
+    "html_url": "https://github.com/apache/dolphinscheduler",
+    "description": "Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code",
+    "language": "Java",
+    "tags": [
+      "Orchestration",
+      "Scheduler",
+      "Java"
+    ],
+    "category": "Big Data & Scheduling"
+  },
+  {
+    "id": 1025856648,
+    "name": "wshobson/agents",
+    "html_url": "https://github.com/wshobson/agents",
+    "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI",
+    "language": "Python",
+    "tags": [
+      "Plugin-Marketplace",
+      "Python"
+    ],
+    "category": "AI Agent Skills"
+  },
+  {
+    "id": 815634288,
+    "name": "tambo-ai/tambo",
+    "html_url": "https://github.com/tambo-ai/tambo",
+    "description": "Generative UI SDK for React",
+    "language": "TypeScript",
+    "tags": [
+      "Generative-UI",
+      "React",
+      "TypeScript"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 965615190,
+    "name": "bmad-code-org/BMAD-METHOD",
+    "html_url": "https://github.com/bmad-code-org/BMAD-METHOD",
+    "description": "Breakthrough Method for Agile Ai Driven Development",
+    "language": "JavaScript",
+    "tags": [
+      "Agile",
+      "AI-Development",
+      "JavaScript"
+    ],
+    "category": "AI Instruction & Guides"
+  },
+  {
+    "id": 1065838481,
+    "name": "iptag/jimeng-api",
+    "html_url": "https://github.com/iptag/jimeng-api",
+    "description": "Reverse-engineered the official API for Jimeng/Dreamina’s text-to-image and image-to-image features. Drew inspiration from several experts’ projects and made some tweaks, which significantly improved stability. ",
+    "language": "TypeScript",
+    "tags": [
+      "Dreamina",
+      "API",
+      "TypeScript"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 755804236,
+    "name": "HanaokaYuzu/Gemini-API",
+    "html_url": "https://github.com/HanaokaYuzu/Gemini-API",
+    "description": "✨ Reverse-engineered Python API for Google Gemini web app",
+    "language": "Python",
+    "tags": [
+      "Gemini",
+      "API",
+      "Python"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 758197374,
+    "name": "emcie-co/parlant",
+    "html_url": "https://github.com/emcie-co/parlant",
+    "description": "Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.",
+    "language": "Python",
+    "tags": [
+      "Interaction-Control",
+      "Python"
+    ],
+    "category": "Web Agents"
+  },
+  {
+    "id": 1054793726,
+    "name": "ChromeDevTools/chrome-devtools-mcp",
+    "html_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+    "description": "Chrome DevTools for coding agents",
+    "language": "TypeScript",
+    "tags": [
+      "DevTools",
+      "MCP",
+      "TypeScript"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 983305992,
+    "name": "rachelos/we-mp-rss",
+    "html_url": "https://github.com/rachelos/we-mp-rss",
+    "description": "✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码",
+    "language": "Python",
+    "tags": [
+      "WeChat",
+      "RSS",
+      "Python"
+    ],
+    "category": "Markdown & Publishing"
+  },
+  {
+    "id": 1013480284,
+    "name": "davila7/claude-code-templates",
+    "html_url": "https://github.com/davila7/claude-code-templates",
+    "description": "CLI tool for configuring and monitoring Claude Code",
+    "language": "Python",
+    "tags": [
+      "Claude",
+      "Templates",
+      "Python"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 973463619,
+    "name": "c-rick/jimeng-mcp",
+    "html_url": "https://github.com/c-rick/jimeng-mcp",
+    "description": "",
+    "language": "TypeScript",
+    "tags": [
+      "Dreamina",
+      "MCP",
+      "TypeScript"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 1004631442,
+    "name": "Maciek-roboblog/Claude-Code-Usage-Monitor",
+    "html_url": "https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor",
+    "description": "Real-time Claude Code usage monitor with predictions and warnings",
+    "language": "Python",
+    "tags": [
+      "Claude",
+      "Monitor",
+      "Python"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 953683578,
+    "name": "oraios/serena",
+    "html_url": "https://github.com/oraios/serena",
+    "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
+    "language": "Python",
+    "tags": [
+      "MCP",
+      "Semantic-Search",
+      "Python"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 1027794681,
+    "name": "contains-studio/agents",
+    "html_url": "https://github.com/contains-studio/agents",
+    "description": "sharing current agents in use",
+    "language": "Unknown",
+    "tags": [
+      "Sharing",
+      "Agents"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 1009758627,
+    "name": "kingkongshot/Pensieve",
+    "html_url": "https://github.com/kingkongshot/Pensieve",
+    "description": "tore your decisions and principles. Claude reads them to make better choices.",
+    "language": "Shell",
+    "tags": [
+      "Claude",
+      "Principles",
+      "Shell"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 969892666,
+    "name": "dataease/SQLBot",
+    "html_url": "https://github.com/dataease/SQLBot",
+    "description": "🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.",
+    "language": "JavaScript",
+    "tags": [
+      "SQL",
+      "RAG",
+      "JavaScript"
+    ],
+    "category": "AI Database Tools"
+  },
+  {
+    "id": 997890921,
+    "name": "czlonkowski/n8n-mcp",
+    "html_url": "https://github.com/czlonkowski/n8n-mcp",
+    "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
+    "language": "TypeScript",
+    "tags": [
+      "n8n",
+      "MCP",
+      "TypeScript"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 651517185,
+    "name": "NanmiCoder/MediaCrawler",
+    "html_url": "https://github.com/NanmiCoder/MediaCrawler",
+    "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
+    "language": "Python",
+    "tags": [
+      "Crawler",
+      "Xiaohongshu",
+      "Python"
+    ],
+    "category": "Web Scraping"
+  },
+  {
+    "id": 998796026,
+    "name": "hangwin/mcp-chrome",
+    "html_url": "https://github.com/hangwin/mcp-chrome",
+    "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
+    "language": "TypeScript",
+    "tags": [
+      "Chrome",
+      "MCP",
+      "TypeScript"
+    ],
+    "category": "Web Agents"
+  },
+  {
+    "id": 934728386,
+    "name": "NightTrek/Software-planning-mcp",
+    "html_url": "https://github.com/NightTrek/Software-planning-mcp",
+    "description": "An experiment in software planning using MCP",
+    "language": "JavaScript",
+    "tags": [
+      "Software-Planning",
+      "MCP",
+      "JavaScript"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 997511383,
+    "name": "wozhenbang2004/augetment-cursor-unlimited",
+    "html_url": "https://github.com/wozhenbang2004/augetment-cursor-unlimited",
+    "description": "Augment一站式彻底重置方案汇总 高效|快速|彻底|无限白嫖续杯 包爽用",
+    "language": "Python",
+    "tags": [
+      "Cursor",
+      "Augment",
+      "Python"
+    ],
+    "category": "AI IDE Tool Workarounds"
+  },
+  {
+    "id": 979507891,
+    "name": "lisniuse/free-augment-code",
+    "html_url": "https://github.com/lisniuse/free-augment-code",
+    "description": "AugmentCode 无限续杯浏览器插件",
+    "language": "JavaScript",
+    "tags": [
+      "Augment",
+      "Extension",
+      "JavaScript"
+    ],
+    "category": "AI IDE Tool Workarounds"
+  },
+  {
+    "id": 944487482,
+    "name": "sjzar/chatlog",
+    "html_url": "https://github.com/sjzar/chatlog",
+    "description": "chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据",
+    "language": "Unknown",
+    "tags": [
+      "Chat-Log",
+      "Local"
+    ],
+    "category": "Offline Utilities"
+  },
+  {
+    "id": 943398999,
+    "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+    "html_url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "language": "Unknown",
+    "tags": [
+      "Prompts",
+      "System-Prompts"
+    ],
+    "category": "AI Reference & Prompts"
+  },
+  {
+    "id": 955620917,
+    "name": "upstash/context7",
+    "html_url": "https://github.com/upstash/context7",
+    "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+    "language": "TypeScript",
+    "tags": [
+      "Documentation",
+      "LLMs",
+      "TypeScript"
+    ],
+    "category": "AI Code Understanding"
+  },
+  {
+    "id": 193215554,
+    "name": "n8n-io/n8n",
+    "html_url": "https://github.com/n8n-io/n8n",
+    "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+    "language": "TypeScript",
+    "tags": [
+      "Automation",
+      "Workflow",
+      "TypeScript"
+    ],
+    "category": "Big Data & Scheduling"
+  },
+  {
+    "id": 919181871,
+    "name": "STS-3D/fusion360-gpt-addin",
+    "html_url": "https://github.com/STS-3D/fusion360-gpt-addin",
+    "description": "",
+    "language": "Python",
+    "tags": [
+      "Fusion360",
+      "Python"
+    ],
+    "category": "CAD Addins"
+  },
+  {
+    "id": 950564038,
+    "name": "CoplayDev/unity-mcp",
+    "html_url": "https://github.com/CoplayDev/unity-mcp",
+    "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
+    "language": "C#",
+    "tags": [
+      "Unity",
+      "MCP",
+      "C#"
+    ],
+    "category": "Game Development"
+  },
+  {
+    "id": 949942513,
+    "name": "team-plask/3d-mcp",
+    "html_url": "https://github.com/team-plask/3d-mcp",
+    "description": "",
+    "language": "Python",
+    "tags": [
+      "3D",
+      "MCP",
+      "Python"
+    ],
+    "category": "3D & Graphics"
+  },
+  {
+    "id": 896335270,
+    "name": "punkpeye/awesome-mcp-servers",
+    "html_url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "language": "Unknown",
+    "tags": [
+      "MCP",
+      "Awesome"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 918932603,
+    "name": "bytedance/UI-TARS-desktop",
+    "html_url": "https://github.com/bytedance/UI-TARS-desktop",
+    "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+    "language": "TypeScript",
+    "tags": [
+      "Multimodal",
+      "Desktop-Agent",
+      "TypeScript"
+    ],
+    "category": "Web Agents"
+  },
+  {
+    "id": 910986056,
+    "name": "browser-use/web-ui",
+    "html_url": "https://github.com/browser-use/web-ui",
+    "description": "🖥️ Run AI Agent in your browser.",
+    "language": "Python",
+    "tags": [
+      "Web-Agent",
+      "Web-UI",
+      "Python"
+    ],
+    "category": "Web Agents"
+  },
+  {
+    "id": 942114501,
+    "name": "camel-ai/owl",
+    "html_url": "https://github.com/camel-ai/owl",
+    "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
+    "language": "Python",
+    "tags": [
+      "CAMEL",
+      "Automation",
+      "Python"
+    ],
+    "category": "Web Agents"
+  },
+  {
+    "id": 901859841,
+    "name": "languine-ai/languine",
+    "html_url": "https://github.com/languine-ai/languine",
+    "description": "Translate your application with Languine CLI powered by AI.",
+    "language": "TypeScript",
+    "tags": [
+      "Translation",
+      "CLI",
+      "TypeScript"
+    ],
+    "category": "Localization & Translation"
+  },
+  {
+    "id": 881458615,
+    "name": "browser-use/browser-use",
+    "html_url": "https://github.com/browser-use/browser-use",
+    "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+    "language": "Python",
+    "tags": [
+      "Automation",
+      "Browser-Use",
+      "Python"
+    ],
+    "category": "Web Agents"
+  },
+  {
+    "id": 931352845,
+    "name": "linshenkx/prompt-optimizer",
+    "html_url": "https://github.com/linshenkx/prompt-optimizer",
+    "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
+    "language": "TypeScript",
+    "tags": [
+      "Prompt",
+      "Optimization",
+      "TypeScript"
+    ],
+    "category": "AI Reference & Prompts"
+  },
+  {
+    "id": 612781022,
+    "name": "cursor/cursor",
+    "html_url": "https://github.com/cursor/cursor",
+    "description": "",
+    "language": "Unknown",
+    "tags": [
+      "Cursor",
+      "IDE"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 903233225,
+    "name": "oslook/cursor-ai-downloads",
+    "html_url": "https://github.com/oslook/cursor-ai-downloads",
+    "description": "All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀",
+    "language": "TypeScript",
+    "tags": [
+      "Cursor",
+      "Downloads",
+      "TypeScript"
+    ],
+    "category": "AI Reference & Prompts"
+  },
+  {
+    "id": 909377883,
+    "name": "chengazhen/cursor-auto-free",
+    "html_url": "https://github.com/chengazhen/cursor-auto-free",
+    "description": "auto sign cursor",
+    "language": "Python",
+    "tags": [
+      "Cursor",
+      "Auto-Free",
+      "Python"
+    ],
+    "category": "AI IDE Tool Workarounds"
+  },
+  {
+    "id": 911025701,
+    "name": "RenjiYuusei/CursorFocus",
+    "html_url": "https://github.com/RenjiYuusei/CursorFocus",
+    "description": "A lightweight tool that maintains a focused view of your project structure and environment. CursorFocus automatically tracks your project files, functions, and environment variables, updating every 60 seconds to keep you informed of changes.",
+    "language": "Python",
+    "tags": [
+      "Cursor",
+      "Focus",
+      "Python"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 904890111,
+    "name": "grapeot/devin.cursorrules",
+    "html_url": "https://github.com/grapeot/devin.cursorrules",
+    "description": "Magic to turn Cursor/Windsurf as 90% of Devin",
+    "language": "Python",
+    "tags": [
+      "Cursor",
+      "Rules",
+      "Python"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 858262444,
+    "name": "PatrickJS/awesome-cursorrules",
+    "html_url": "https://github.com/PatrickJS/awesome-cursorrules",
+    "description": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
+    "language": "JavaScript",
+    "tags": [
+      "Cursor",
+      "Rules",
+      "JavaScript"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 519859998,
+    "name": "toeverything/AFFiNE",
+    "html_url": "https://github.com/toeverything/AFFiNE",
+    "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
+    "language": "TypeScript",
+    "tags": [
+      "Knowledge-Base",
+      "Notion-Alternative",
+      "TypeScript"
+    ],
+    "category": "Offline Utilities"
+  },
+  {
+    "id": 680120071,
+    "name": "microsoft/autogen",
+    "html_url": "https://github.com/microsoft/autogen",
+    "description": "A programming framework for agentic AI",
+    "language": "Python",
+    "tags": [
+      "AutoGen",
+      "Python"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 605673387,
+    "name": "labring/FastGPT",
+    "html_url": "https://github.com/labring/FastGPT",
+    "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
+    "language": "TypeScript",
+    "tags": [
+      "Knowledge-Base",
+      "FastGPT",
+      "TypeScript"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 870368525,
+    "name": "trypear/pearai-master",
+    "html_url": "https://github.com/trypear/pearai-master",
+    "description": "Master Repo For PearAI",
+    "language": "Shell",
+    "tags": [
+      "PearAI",
+      "IDE",
+      "Shell"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 824874689,
+    "name": "cline/cline",
+    "html_url": "https://github.com/cline/cline",
+    "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+    "language": "TypeScript",
+    "tags": [
+      "Cline",
+      "TypeScript"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 887808295,
+    "name": "richards199999/Thinking-Claude",
+    "html_url": "https://github.com/richards199999/Thinking-Claude",
+    "description": "Let your Claude able to think",
+    "language": "TypeScript",
+    "tags": [
+      "Claude",
+      "TypeScript"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 626805178,
+    "name": "langgenius/dify",
+    "html_url": "https://github.com/langgenius/dify",
+    "description": "Production-ready platform for agentic workflow development.",
+    "language": "TypeScript",
+    "tags": [
+      "Dify",
+      "TypeScript"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 527335176,
+    "name": "t3-oss/create-t3-turbo",
+    "html_url": "https://github.com/t3-oss/create-t3-turbo",
+    "description": "Clean and simple starter repo using the T3 Stack along with Expo React Native",
+    "language": "TypeScript",
+    "tags": [
+      "T3",
+      "TypeScript",
+      "React-Native"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 644461337,
+    "name": "vercel/ai",
+    "html_url": "https://github.com/vercel/ai",
+    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ",
+    "language": "TypeScript",
+    "tags": [
+      "Vercel",
+      "AI-SDK",
+      "TypeScript"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 725089041,
+    "name": "myshell-ai/OpenVoice",
+    "html_url": "https://github.com/myshell-ai/OpenVoice",
+    "description": "Instant voice cloning by MIT and MyShell. Audio foundation model.",
+    "language": "Python",
+    "tags": [
+      "Voice-Cloning",
+      "Python"
+    ],
+    "category": "Audio & Voice"
+  },
+  {
+    "id": 749126547,
+    "name": "ScrapeGraphAI/Scrapegraph-ai",
+    "html_url": "https://github.com/ScrapeGraphAI/Scrapegraph-ai",
+    "description": "Python scraper based on AI",
+    "language": "Python",
+    "tags": [
+      "Scraper",
+      "AI",
+      "Python"
+    ],
+    "category": "Web Scraping"
+  },
+  {
+    "id": 673881338,
+    "name": "qiye45/wechatDownload",
+    "html_url": "https://github.com/qiye45/wechatDownload",
+    "description": "微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv文件，保存文章内图片、视频、音频文件，支持MCP/Skill调用",
+    "language": "HTML",
+    "tags": [
+      "WeChat",
+      "Download",
+      "HTML"
+    ],
+    "category": "Markdown & Publishing"
+  },
+  {
+    "id": 617179274,
+    "name": "steven-tey/novel",
+    "html_url": "https://github.com/steven-tey/novel",
+    "description": "Notion-style WYSIWYG editor with AI-powered autocompletion.",
+    "language": "TypeScript",
+    "tags": [
+      "Editor",
+      "Notion-Style",
+      "TypeScript"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 746986373,
+    "name": "wengcan/TubeAI",
+    "html_url": "https://github.com/wengcan/TubeAI",
+    "description": "Use LangChain and Google Gemini to Summarize Youtube Video",
+    "language": "Python",
+    "tags": [
+      "YouTube",
+      "Summarize",
+      "Python"
+    ],
+    "category": "Offline Utilities"
+  },
+  {
+    "id": 622299210,
+    "name": "jaschahuisman/sd-api",
+    "html_url": "https://github.com/jaschahuisman/sd-api",
+    "description": "A Typescript API client for AUTOMATIC111/stable-diffusion-webui",
+    "language": "TypeScript",
+    "tags": [
+      "Stable-Diffusion",
+      "API",
+      "TypeScript"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 612640604,
+    "name": "mckaywrigley/chatbot-ui",
+    "html_url": "https://github.com/mckaywrigley/chatbot-ui",
+    "description": "AI chat for any model.",
+    "language": "TypeScript",
+    "tags": [
+      "Chatbot-UI",
+      "TypeScript"
+    ],
+    "category": "AI IDE Tools"
+  },
+  {
+    "id": 743015313,
+    "name": "1003715231/gptstore-prompts",
+    "html_url": "https://github.com/1003715231/gptstore-prompts",
+    "description": "Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.",
+    "language": "Unknown",
+    "tags": [
+      "Prompts",
+      "GPTStore"
+    ],
+    "category": "AI Reference & Prompts"
+  },
+  {
+    "id": 718741813,
+    "name": "abi/screenshot-to-code",
+    "html_url": "https://github.com/abi/screenshot-to-code",
+    "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
+    "language": "TypeScript",
+    "tags": [
+      "Screenshot-to-Code",
+      "TypeScript"
+    ],
+    "category": "AI Code Generation"
+  },
+  {
+    "id": 616372661,
+    "name": "binary-husky/gpt_academic",
+    "html_url": "https://github.com/binary-husky/gpt_academic",
+    "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
+    "language": "Python",
+    "tags": [
+      "Academic",
+      "Translation",
+      "Python"
+    ],
+    "category": "AI Reference & Prompts"
+  },
+  {
+    "id": 736716411,
+    "name": "bleedline/Awesome-gptlike-shellsite",
+    "html_url": "https://github.com/bleedline/Awesome-gptlike-shellsite",
+    "description": "深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle.",
+    "language": "Unknown",
+    "tags": [
+      "Shell-Site",
+      "API-Resources"
+    ],
+    "category": "AI Reference & Prompts"
+  },
+  {
+    "id": 71293321,
+    "name": "diegomura/react-pdf",
+    "html_url": "https://github.com/diegomura/react-pdf",
+    "description": "📄  Create PDF files using React",
+    "language": "TypeScript",
+    "tags": [
+      "PDF",
+      "React",
+      "TypeScript"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 652941996,
+    "name": "LykosAI/StabilityMatrix",
+    "html_url": "https://github.com/LykosAI/StabilityMatrix",
+    "description": "Multi-Platform Package Manager for Stable Diffusion",
+    "language": "C#",
+    "tags": [
+      "Stable-Diffusion",
+      "C#"
+    ],
+    "category": "Web Agents"
+  },
+  {
+    "id": 631998225,
+    "name": "erictik/midjourney-api",
+    "html_url": "https://github.com/erictik/midjourney-api",
+    "description": "MidJourney client. Unofficial Node.js client",
+    "language": "TypeScript",
+    "tags": [
+      "Midjourney",
+      "TypeScript"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 614764248,
+    "name": "TabbyML/tabby",
+    "html_url": "https://github.com/TabbyML/tabby",
+    "description": "Self-hosted AI coding assistant",
+    "language": "Rust",
+    "tags": [
+      "Tabby",
+      "Rust"
+    ],
+    "category": "AI Coding Assistants"
+  },
+  {
+    "id": 624775898,
+    "name": "aipic-club/cnJourney",
+    "html_url": "https://github.com/aipic-club/cnJourney",
+    "description": "",
+    "language": "TypeScript",
+    "tags": [
+      "Midjourney",
+      "TypeScript"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 657425353,
+    "name": "aipic-club/midlibraryio_data",
+    "html_url": "https://github.com/aipic-club/midlibraryio_data",
+    "description": "midlibrary.io data spider",
+    "language": "Jupyter Notebook",
+    "tags": [
+      "Spider",
+      "Midjourney",
+      "Jupyter"
+    ],
+    "category": "Web Scraping"
+  },
+  {
+    "id": 635599120,
+    "name": "adams549659584/go-proxy-bingai",
+    "html_url": "https://github.com/adams549659584/go-proxy-bingai",
+    "description": "用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。",
+    "language": "HTML",
+    "tags": [
+      "Bing",
+      "Proxy",
+      "HTML"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 552661142,
+    "name": "langchain-ai/langchain",
+    "html_url": "https://github.com/langchain-ai/langchain",
+    "description": "The agent engineering platform.",
+    "language": "Python",
+    "tags": [
+      "LangChain",
+      "Python"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 642323624,
+    "name": "XingangPan/DragGAN",
+    "html_url": "https://github.com/XingangPan/DragGAN",
+    "description": "Official Code for DragGAN (SIGGRAPH 2023)",
+    "language": "Python",
+    "tags": [
+      "DragGAN",
+      "Python"
+    ],
+    "category": "AI Visual Generation"
+  },
+  {
+    "id": 628419800,
+    "name": "Vision-CAIR/MiniGPT-4",
+    "html_url": "https://github.com/Vision-CAIR/MiniGPT-4",
+    "description": "Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)",
+    "language": "Python",
+    "tags": [
+      "MiniGPT",
+      "Python"
+    ],
+    "category": "AI Visual Generation"
+  },
+  {
+    "id": 614765452,
+    "name": "Significant-Gravitas/AutoGPT",
+    "html_url": "https://github.com/Significant-Gravitas/AutoGPT",
+    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+    "language": "Python",
+    "tags": [
+      "AutoGPT",
+      "Python"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 602343881,
+    "name": "binjie09/chatgpt-web",
+    "html_url": "https://github.com/binjie09/chatgpt-web",
+    "description": "使用 express 和 vue3 搭建的 ChartGPT 演示网页",
+    "language": "Vue",
+    "tags": [
+      "ChatGPT-Web",
+      "Vue"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 320598037,
+    "name": "noobnooc/noobnooc",
+    "html_url": "https://github.com/noobnooc/noobnooc",
+    "description": "My profile & the agent skills I created",
+    "language": "Unknown",
+    "tags": [
+      "Profile",
+      "Skills"
+    ],
+    "category": "AI Reference & Prompts"
+  },
+  {
+    "id": 608735752,
+    "name": "x-dr/chatgptProxyAPI",
+    "html_url": "https://github.com/x-dr/chatgptProxyAPI",
+    "description": "🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出",
+    "language": "HTML",
+    "tags": [
+      "OpenAI-Proxy",
+      "Cloudflare",
+      "HTML"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 618297199,
+    "name": "leon-fong/ChatGPT-miniprogram",
+    "html_url": "https://github.com/leon-fong/ChatGPT-miniprogram",
+    "description": "🤖 ChatGPT 小程序 ",
+    "language": "JavaScript",
+    "tags": [
+      "WeChat",
+      "ChatGPT",
+      "JavaScript"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 621118467,
+    "name": "microsoft/JARVIS",
+    "html_url": "https://github.com/microsoft/JARVIS",
+    "description": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",
+    "language": "Python",
+    "tags": [
+      "JARVIS",
+      "Python"
+    ],
+    "category": "Multi-Agent Systems"
+  },
+  {
+    "id": 526614920,
+    "name": "Wildric-Auric/MidJourney-Wrapper",
+    "html_url": "https://github.com/Wildric-Auric/MidJourney-Wrapper",
+    "description": "MidJourney wrapper in Discord.",
+    "language": "Python",
+    "tags": [
+      "Midjourney",
+      "Python"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 537288906,
+    "name": "kiri-art/docker-diffusers-api",
+    "html_url": "https://github.com/kiri-art/docker-diffusers-api",
+    "description": "Diffusers / Stable Diffusion in docker with a REST API, supporting various models, pipelines & schedulers.",
+    "language": "Python",
+    "tags": [
+      "Diffusers",
+      "Python"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 573631261,
+    "name": "transitive-bullshit/agentic",
+    "html_url": "https://github.com/transitive-bullshit/agentic",
+    "description": "Your API ⇒ Paid MCP. Instantly.",
+    "language": "TypeScript",
+    "tags": [
+      "Agentic",
+      "TypeScript"
+    ],
+    "category": "AI API Utilities"
+  },
+  {
+    "id": 324521685,
+    "name": "hmake98/fastify-typescript",
+    "html_url": "https://github.com/hmake98/fastify-typescript",
+    "description": "Fastify typescript boilerplate with Prisma",
+    "language": "TypeScript",
+    "tags": [
+      "Fastify",
+      "Prisma",
+      "TypeScript"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 2312977,
+    "name": "oldj/SwitchHosts",
+    "html_url": "https://github.com/oldj/SwitchHosts",
+    "description": "Switch hosts quickly!",
+    "language": "TypeScript",
+    "tags": [
+      "Hosts",
+      "TypeScript"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 600798098,
+    "name": "Mikubill/sd-webui-controlnet",
+    "html_url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "description": "WebUI extension for ControlNet",
+    "language": "Python",
+    "tags": [
+      "ControlNet",
+      "Stable-Diffusion",
+      "Python"
+    ],
+    "category": "AI Visual Generation"
+  },
+  {
+    "id": 527591471,
+    "name": "AUTOMATIC1111/stable-diffusion-webui",
+    "html_url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "description": "Stable Diffusion web UI",
+    "language": "Python",
+    "tags": [
+      "Stable-Diffusion",
+      "Python"
+    ],
+    "category": "AI Visual Generation"
+  },
+  {
+    "id": 532420878,
+    "name": "pong7772/fullstack-socail-app",
+    "html_url": "https://github.com/pong7772/fullstack-socail-app",
+    "description": "prisma, nuxt3 , vue3, mongoDB, tailwind, firebase, cloud,",
+    "language": "Vue",
+    "tags": [
+      "Prisma",
+      "Nuxt",
+      "Vue"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 52113921,
+    "name": "facebookarchive/draft-js",
+    "html_url": "https://github.com/facebookarchive/draft-js",
+    "description": "A React framework for building text editors.",
+    "language": "JavaScript",
+    "tags": [
+      "Draft.js",
+      "React",
+      "JavaScript"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 145464445,
+    "name": "ueberdosis/tiptap",
+    "html_url": "https://github.com/ueberdosis/tiptap",
+    "description": "The headless rich text editor framework for web artisans.",
+    "language": "TypeScript",
+    "tags": [
+      "Tiptap",
+      "TypeScript"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 11776741,
+    "name": "jakiestfu/Medium.js",
+    "html_url": "https://github.com/jakiestfu/Medium.js",
+    "description": "A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)",
+    "language": "JavaScript",
+    "tags": [
+      "Medium.js",
+      "JavaScript"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 173111699,
+    "name": "snailuncle/autojsDemo",
+    "html_url": "https://github.com/snailuncle/autojsDemo",
+    "description": "",
+    "language": "JavaScript",
+    "tags": [
+      "Auto.js",
+      "JavaScript"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 94673784,
+    "name": "essay-org/essay",
+    "html_url": "https://github.com/essay-org/essay",
+    "description": "personalise blog system",
+    "language": "EJS",
+    "tags": [
+      "Blog",
+      "EJS"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 269507091,
+    "name": "why2lyj/youxiang-Itchat",
+    "html_url": "https://github.com/why2lyj/youxiang-Itchat",
+    "description": "无视微信Web无法登录问题。获取淘宝优惠券、京东优惠券、拼多多（多多客）优惠券、苏宁易购优惠券、唯品会优惠券，通过接入淘宝联盟、京东联盟、拼多多（多多进宝）、苏宁联盟（苏宁推客）、唯品会及其对应的开放平台，获取优惠商品图片和对应商品信息，利用微信机器人推送到指定群聊。",
+    "language": "Python",
+    "tags": [
+      "WeChat-Bot",
+      "Python"
+    ],
+    "category": "Web Scraping"
+  },
+  {
+    "id": 92161853,
+    "name": "codrops/MorphingBackgroundShapes",
+    "html_url": "https://github.com/codrops/MorphingBackgroundShapes",
+    "description": "A decorative website background effect where SVG shapes morph and transform on scroll.",
+    "language": "HTML",
+    "tags": [
+      "SVG",
+      "Animation",
+      "HTML"
+    ],
+    "category": "Web Design"
+  },
+  {
+    "id": 53809090,
+    "name": "juliangarnier/anime",
+    "html_url": "https://github.com/juliangarnier/anime",
+    "description": "JavaScript animation engine",
+    "language": "JavaScript",
+    "tags": [
+      "Animation",
+      "Anime.js",
+      "JavaScript"
+    ],
+    "category": "Web Design"
+  },
+  {
+    "id": 99433554,
+    "name": "googlehosts/hosts",
+    "html_url": "https://github.com/googlehosts/hosts",
+    "description": "镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts",
+    "language": "Unknown",
+    "tags": [
+      "Hosts"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 943149,
+    "name": "d3/d3",
+    "html_url": "https://github.com/d3/d3",
+    "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
+    "language": "Shell",
+    "tags": [
+      "D3.js",
+      "Data-Visualization",
+      "Shell"
+    ],
+    "category": "Web Design"
+  },
+  {
+    "id": 4398231,
+    "name": "jgraph/mxgraph",
+    "html_url": "https://github.com/jgraph/mxgraph",
+    "description": "mxGraph is a fully client side JavaScript diagramming library",
+    "language": "HTML",
+    "tags": [
+      "mxGraph",
+      "Diagramming",
+      "HTML"
+    ],
+    "category": "Web Design"
+  },
+  {
+    "id": 45533950,
+    "name": "jobbole/awesome-design-cn",
+    "html_url": "https://github.com/jobbole/awesome-design-cn",
+    "description": "设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等",
+    "language": "Unknown",
+    "tags": [
+      "Design-Resources"
+    ],
+    "category": "Web Design"
+  },
+  {
+    "id": 102182354,
+    "name": "Skura23/goods-spec",
+    "html_url": "https://github.com/Skura23/goods-spec",
+    "description": "商品多规格表格编辑(vue, elementUI)",
+    "language": "HTML",
+    "tags": [
+      "ElementUI",
+      "Vue",
+      "HTML"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 576201,
+    "name": "mrdoob/three.js",
+    "html_url": "https://github.com/mrdoob/three.js",
+    "description": "JavaScript 3D Library.",
+    "language": "JavaScript",
+    "tags": [
+      "Three.js",
+      "WebGL",
+      "JavaScript"
+    ],
+    "category": "Web Design"
+  },
+  {
+    "id": 105515099,
+    "name": "nemo-tree/vue2-shop",
+    "html_url": "https://github.com/nemo-tree/vue2-shop",
+    "description": "基于vue全家桶的移动端 电商商城  ",
+    "language": "Vue",
+    "tags": [
+      "Vue",
+      "E-commerce"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 95412229,
+    "name": "PanJiaChen/vue-admin-template",
+    "html_url": "https://github.com/PanJiaChen/vue-admin-template",
+    "description": "a vue2.0 minimal admin template ",
+    "language": "JavaScript",
+    "tags": [
+      "Vue",
+      "Admin-Template",
+      "JavaScript"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 86683265,
+    "name": "EastWorld/wechat-app-mall",
+    "html_url": "https://github.com/EastWorld/wechat-app-mall",
+    "description": "微信小程序商城，微信小程序微店",
+    "language": "JavaScript",
+    "tags": [
+      "WeChat-App",
+      "E-commerce",
+      "JavaScript"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 31085130,
+    "name": "airbnb/lottie-web",
+    "html_url": "https://github.com/airbnb/lottie-web",
+    "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/",
+    "language": "JavaScript",
+    "tags": [
+      "Lottie",
+      "Animation",
+      "JavaScript"
+    ],
+    "category": "Web Design"
+  },
+  {
+    "id": 64456668,
+    "name": "yongqianvip/react-native-base-project",
+    "html_url": "https://github.com/yongqianvip/react-native-base-project",
+    "description": "ReactNative基础项目",
+    "language": "JavaScript",
+    "tags": [
+      "React-Native",
+      "JavaScript"
+    ],
+    "category": "Web Development"
+  },
+  {
+    "id": 63936619,
+    "name": "crazycodeboy/RNStudyNotes",
+    "html_url": "https://github.com/crazycodeboy/RNStudyNotes",
+    "description": "React Native 研究与实践",
+    "language": "Objective-C",
+    "tags": [
+      "React-Native",
+      "Objective-C"
+    ],
+    "category": "Web Development"
+  }
+]
