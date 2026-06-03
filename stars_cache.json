@@ -7,7 +7,7 @@
     "description": "Local gateway for Codex Desktop — custom API, web dashboard, Vision Bridge",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T03:36:03Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "Codex",
       "Agent",
@@ -22,7 +22,7 @@
     "description": "Convert Google Gemini web into OpenAI-compatible API. Zero auth, cross-platform, single file.",
     "language": "Python",
     "pushed_at": "2026-06-02T12:58:44Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Gemini",
       "API",
@@ -37,7 +37,7 @@
     "description": "🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对",
     "language": "HTML",
     "pushed_at": "2026-05-27T16:58:08Z",
-    "category": "AI Agent Skills",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Claude",
       "Skill",
@@ -52,7 +52,7 @@
     "description": "The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.",
     "language": "Rust",
     "pushed_at": "2026-06-03T13:39:23Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "Codex",
       "Rust"
@@ -66,7 +66,7 @@
     "description": "中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill",
     "language": "Unknown",
     "pushed_at": "2026-06-03T11:35:43Z",
-    "category": "AI Agent Skills",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Codex",
       "Skill"
@@ -80,7 +80,7 @@
     "description": "Your agent writes bad React. This catches it",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T11:05:44Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "React",
       "TypeScript",
@@ -95,7 +95,7 @@
     "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T08:04:01Z",
-    "category": "Claude & IDE Plugins",
+    "category": "AI Developer Tools",
     "tags": [
       "Claude",
       "Cursor",
@@ -110,7 +110,7 @@
     "description": "skill to create best prompts for generating videos with seedance2.0",
     "language": "Unknown",
     "pushed_at": "2026-02-18T13:00:03Z",
-    "category": "AI Video Generation",
+    "category": "AI Inference & Models",
     "tags": [
       "Video",
       "Prompt",
@@ -125,7 +125,7 @@
     "description": "Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布",
     "language": "Go",
     "pushed_at": "2026-05-28T14:58:31Z",
-    "category": "Markdown & Publishing",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "WeChat",
       "Markdown",
@@ -140,7 +140,7 @@
     "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T10:17:55Z",
-    "category": "Agent Memory Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Agent",
       "Memory",
@@ -155,7 +155,7 @@
     "description": "A compact, real-time mobile interface that lets you monitor and interact with Antigravity chats on the go.",
     "language": "JavaScript",
     "pushed_at": "2026-04-12T04:13:00Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Antigravity",
       "Web",
@@ -170,7 +170,7 @@
     "description": "Mobile PWA for Antigravity via LSP bridge. No cloud, no screen sharing.",
     "language": "TypeScript",
     "pushed_at": "2026-06-02T05:41:45Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Antigravity",
       "PWA",
@@ -185,7 +185,7 @@
     "description": "Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude model through API",
     "language": "Go",
     "pushed_at": "2026-06-03T03:58:08Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "API",
       "Proxy",
@@ -200,7 +200,7 @@
     "description": "Claude Code skill that removes signs of AI-generated writing from text",
     "language": "Unknown",
     "pushed_at": "2026-05-27T02:55:25Z",
-    "category": "AI Writing & Editing",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "Claude",
       "Skill",
@@ -215,7 +215,7 @@
     "description": "The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider.",
     "language": "Python",
     "pushed_at": "2026-06-03T06:12:42Z",
-    "category": "AI Inference Engines",
+    "category": "AI Inference & Models",
     "tags": [
       "MLX",
       "Apple Silicon",
@@ -230,7 +230,7 @@
     "description": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
     "language": "Go",
     "pushed_at": "2026-06-03T13:27:55Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "API",
       "Subscription",
@@ -245,7 +245,7 @@
     "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
     "language": "Unknown",
     "pushed_at": "2026-04-20T10:05:04Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "Claude",
       "Skills",
@@ -260,7 +260,7 @@
     "description": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
     "language": "Python",
     "pushed_at": "2026-06-03T12:07:34Z",
-    "category": "AI Document & Slide Gen",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "PPT",
       "Python",
@@ -275,7 +275,7 @@
     "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
     "language": "HTML",
     "pushed_at": "2026-06-02T09:53:57Z",
-    "category": "AI Document & Slide Gen",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "HTML",
       "Slide",
@@ -290,7 +290,7 @@
     "description": "🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails",
     "language": "Python",
     "pushed_at": "2026-05-28T17:39:22Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Multi-Agent",
       "Orchestration",
@@ -305,7 +305,7 @@
     "description": "Android remote dev workstation for Claude Code / AI-assisted programming",
     "language": "Java",
     "pushed_at": "2026-04-12T13:55:01Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "Android",
       "Remote-Dev",
@@ -320,7 +320,7 @@
     "description": "Write HTML. Render video. Built for agents.",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T11:49:04Z",
-    "category": "AI Video Generation",
+    "category": "AI Inference & Models",
     "tags": [
       "HTML",
       "Video",
@@ -335,7 +335,7 @@
     "description": "A CLI tool to switch and manage Codex accounts",
     "language": "Zig",
     "pushed_at": "2026-06-02T04:32:51Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Codex",
       "CLI",
@@ -350,7 +350,7 @@
     "description": "The agent that grows with you",
     "language": "Python",
     "pushed_at": "2026-06-03T13:45:51Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "Agent",
       "Python",
@@ -365,7 +365,7 @@
     "description": "The best-benchmarked open-source AI memory system. And it's free.",
     "language": "Python",
     "pushed_at": "2026-06-03T05:18:15Z",
-    "category": "Agent Memory Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Agent",
       "Memory",
@@ -380,7 +380,7 @@
     "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T10:13:39Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Codex",
       "Hooks",
@@ -395,7 +395,7 @@
     "description": "\"OpenSpace: Make Your Agents: Smarter, Low-Cost, Self-Evolving\" -- Community: https://open-space.cloud/",
     "language": "Python",
     "pushed_at": "2026-06-02T16:05:43Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Agent",
       "Python",
@@ -410,7 +410,7 @@
     "description": "Semantic code navigation for AI agents",
     "language": "Rust",
     "pushed_at": "2026-05-17T06:24:50Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "Navigation",
       "Rust",
@@ -425,7 +425,7 @@
     "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
     "language": "Swift",
     "pushed_at": "2026-06-03T13:38:06Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Terminal",
       "Swift",
@@ -440,7 +440,7 @@
     "description": "MLX: An array framework for Apple silicon",
     "language": "C++",
     "pushed_at": "2026-06-02T23:29:45Z",
-    "category": "AI Inference Engines",
+    "category": "AI Inference & Models",
     "tags": [
       "MLX",
       "Apple Silicon",
@@ -455,7 +455,7 @@
     "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
     "language": "Python",
     "pushed_at": "2026-06-03T13:51:49Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "SuperAgent",
       "Orchestration",
@@ -470,7 +470,7 @@
     "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T05:58:36Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "Claude",
       "Setup",
@@ -485,7 +485,7 @@
     "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
     "language": "Shell",
     "pushed_at": "2026-06-02T23:06:50Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Agency",
       "Orchestration",
@@ -500,7 +500,7 @@
     "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T12:25:22Z",
-    "category": "Web Agents",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "GUI",
       "Web-Agent",
@@ -515,7 +515,7 @@
     "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction. 15 platforms",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T13:30:54Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "Context",
       "Optimization",
@@ -530,7 +530,7 @@
     "description": "AI 朝廷搭建完整教程 - 从零基础到进阶",
     "language": "TypeScript",
     "pushed_at": "2026-05-22T12:41:23Z",
-    "category": "AI Instruction & Guides",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Guide",
       "Tutorial",
@@ -545,7 +545,7 @@
     "description": "An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.",
     "language": "Go",
     "pushed_at": "2026-06-02T14:17:22Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Collaborative",
       "Matrix",
@@ -560,7 +560,7 @@
     "description": "Web, Desktop & Mobile client for Codex, Claude Code, OpenCode, Kimi, Augment Code, Qwen, fully end-to-end encrypted",
     "language": "TypeScript",
     "pushed_at": "2026-05-30T06:21:37Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Codex",
       "Claude",
@@ -575,7 +575,7 @@
     "description": "Open-source Agent Operating System",
     "language": "Rust",
     "pushed_at": "2026-05-14T08:28:37Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Agent-OS",
       "Rust"
@@ -589,7 +589,7 @@
     "description": "GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T13:36:36Z",
-    "category": "AI Code Understanding",
+    "category": "AI Developer Tools",
     "tags": [
       "Knowledge-Graph",
       "RAG",
@@ -604,7 +604,7 @@
     "description": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
     "language": "Python",
     "pushed_at": "2026-05-18T12:39:22Z",
-    "category": "Web Agents",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "CLI",
       "Scraper",
@@ -619,7 +619,7 @@
     "description": "A free, open source, and extensible speech-to-text application that works completely offline.",
     "language": "Rust",
     "pushed_at": "2026-05-23T04:05:16Z",
-    "category": "Offline Utilities",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "Speech-to-Text",
       "Offline",
@@ -634,7 +634,7 @@
     "description": "mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local",
     "language": "TypeScript",
     "pushed_at": "2026-06-01T22:49:03Z",
-    "category": "Offline Utilities",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "Search-Engine",
       "Local",
@@ -649,7 +649,7 @@
     "description": "The agent-native LLM router for OpenClaw. 41+ models, <1ms routing, USDC payments on Base & Solana via x402.",
     "language": "TypeScript",
     "pushed_at": "2026-06-01T05:42:51Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Router",
       "Payments",
@@ -664,7 +664,7 @@
     "description": "Teams-first Multi-agent orchestration for Claude Code",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T05:55:14Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Claude",
       "Orchestration",
@@ -679,7 +679,7 @@
     "description": "Visible multi-agent CLI teams for Claude, Codex, Gemini, OpenCode, and Droid with project memory and tmux supervision",
     "language": "Python",
     "pushed_at": "2026-06-03T10:44:45Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Bridge",
       "Python",
@@ -694,7 +694,7 @@
     "description": "Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured",
     "language": "TypeScript",
     "pushed_at": "2026-06-01T16:53:37Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Client",
       "Voice",
@@ -709,7 +709,7 @@
     "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 ",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T13:52:19Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "OpenClaw",
       "TypeScript"
@@ -723,7 +723,7 @@
     "description": "AI Agent Collaboration System for Content Creation",
     "language": "TypeScript",
     "pushed_at": "2026-05-25T13:33:17Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Content-Creation",
       "TypeScript"
@@ -737,7 +737,7 @@
     "description": "Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.",
     "language": "TypeScript",
     "pushed_at": "2026-04-28T22:22:39Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "OAuth",
       "Antigravity",
@@ -752,7 +752,7 @@
     "description": "issues pr 请去上游仓库 ",
     "language": "Python",
     "pushed_at": "2026-01-30T12:35:19Z",
-    "category": "GitHub Gateways",
+    "category": "Data & Infrastructure",
     "tags": [
       "Python",
       "Mirror"
@@ -766,7 +766,7 @@
     "description": "百度脑图",
     "language": "JavaScript",
     "pushed_at": "2019-08-10T08:29:01Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "Mindmap",
       "JavaScript"
@@ -780,7 +780,7 @@
     "description": "An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms",
     "language": "Python",
     "pushed_at": "2026-04-03T05:08:19Z",
-    "category": "AI Agent Skills",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Design",
       "UI/UX",
@@ -795,7 +795,7 @@
     "description": "A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.",
     "language": "Python",
     "pushed_at": "2026-05-26T05:36:56Z",
-    "category": "AI Agent Skills",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Context",
       "Skills",
@@ -810,7 +810,7 @@
     "description": "Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code",
     "language": "Java",
     "pushed_at": "2026-06-02T03:50:37Z",
-    "category": "Big Data & Scheduling",
+    "category": "Data & Infrastructure",
     "tags": [
       "Orchestration",
       "Scheduler",
@@ -825,7 +825,7 @@
     "description": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI",
     "language": "Python",
     "pushed_at": "2026-06-02T23:15:40Z",
-    "category": "AI Agent Skills",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Plugin-Marketplace",
       "Python"
@@ -839,7 +839,7 @@
     "description": "Generative UI SDK for React",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T11:46:06Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "Generative-UI",
       "React",
@@ -854,7 +854,7 @@
     "description": "Breakthrough Method for Agile Ai Driven Development",
     "language": "JavaScript",
     "pushed_at": "2026-06-03T03:54:43Z",
-    "category": "AI Instruction & Guides",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Agile",
       "AI-Development",
@@ -869,7 +869,7 @@
     "description": "Reverse-engineered the official API for Jimeng/Dreamina’s text-to-image and image-to-image features. Drew inspiration from several experts’ projects and made some tweaks, which significantly improved stability. ",
     "language": "TypeScript",
     "pushed_at": "2026-03-02T04:28:43Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Dreamina",
       "API",
@@ -884,7 +884,7 @@
     "description": "✨ Reverse-engineered Python API for Google Gemini web app",
     "language": "Python",
     "pushed_at": "2026-04-13T15:51:07Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Gemini",
       "API",
@@ -899,7 +899,7 @@
     "description": "Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.",
     "language": "Python",
     "pushed_at": "2026-06-03T13:25:56Z",
-    "category": "Web Agents",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Interaction-Control",
       "Python"
@@ -913,7 +913,7 @@
     "description": "Chrome DevTools for coding agents",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T13:45:01Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "DevTools",
       "MCP",
@@ -928,7 +928,7 @@
     "description": "✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码",
     "language": "Python",
     "pushed_at": "2026-06-02T08:26:45Z",
-    "category": "Markdown & Publishing",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "WeChat",
       "RSS",
@@ -943,7 +943,7 @@
     "description": "CLI tool for configuring and monitoring Claude Code",
     "language": "Python",
     "pushed_at": "2026-06-03T04:33:19Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Claude",
       "Templates",
@@ -958,7 +958,7 @@
     "description": "",
     "language": "TypeScript",
     "pushed_at": "2026-03-17T08:34:16Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Dreamina",
       "MCP",
@@ -973,7 +973,7 @@
     "description": "Real-time Claude Code usage monitor with predictions and warnings",
     "language": "Python",
     "pushed_at": "2025-09-14T03:40:59Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Claude",
       "Monitor",
@@ -988,7 +988,7 @@
     "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
     "language": "Python",
     "pushed_at": "2026-06-02T17:19:21Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "MCP",
       "Semantic-Search",
@@ -1003,7 +1003,7 @@
     "description": "sharing current agents in use",
     "language": "Unknown",
     "pushed_at": "2025-07-28T16:13:43Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Sharing",
       "Agents"
@@ -1017,7 +1017,7 @@
     "description": "tore your decisions and principles. Claude reads them to make better choices.",
     "language": "Shell",
     "pushed_at": "2026-05-08T05:14:49Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Claude",
       "Principles",
@@ -1032,7 +1032,7 @@
     "description": "🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.",
     "language": "JavaScript",
     "pushed_at": "2026-06-03T09:29:12Z",
-    "category": "AI Database Tools",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "SQL",
       "RAG",
@@ -1047,7 +1047,7 @@
     "description": "A MCP for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows for you ",
     "language": "TypeScript",
     "pushed_at": "2026-06-02T22:35:57Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "n8n",
       "MCP",
@@ -1062,7 +1062,7 @@
     "description": "小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫、百度贴吧帖子 ｜ 百度贴吧评论回复爬虫  | 知乎问答文章｜评论爬虫",
     "language": "Python",
     "pushed_at": "2026-05-29T13:34:08Z",
-    "category": "Web Scraping",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "Crawler",
       "Xiaohongshu",
@@ -1077,7 +1077,7 @@
     "description": "Chrome MCP Server is a Chrome extension-based Model Context Protocol (MCP) server that exposes your Chrome browser functionality to AI assistants like Claude, enabling complex browser automation, content analysis, and semantic search.",
     "language": "TypeScript",
     "pushed_at": "2026-01-06T13:05:39Z",
-    "category": "Web Agents",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Chrome",
       "MCP",
@@ -1092,7 +1092,7 @@
     "description": "An experiment in software planning using MCP",
     "language": "JavaScript",
     "pushed_at": "2025-03-14T09:36:09Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "Software-Planning",
       "MCP",
@@ -1107,7 +1107,7 @@
     "description": "Augment一站式彻底重置方案汇总 高效|快速|彻底|无限白嫖续杯 包爽用",
     "language": "Python",
     "pushed_at": "2025-06-10T12:18:43Z",
-    "category": "AI IDE Tool Workarounds",
+    "category": "AI Developer Tools",
     "tags": [
       "Cursor",
       "Augment",
@@ -1122,7 +1122,7 @@
     "description": "AugmentCode 无限续杯浏览器插件",
     "language": "JavaScript",
     "pushed_at": "2025-06-10T09:38:13Z",
-    "category": "AI IDE Tool Workarounds",
+    "category": "AI Developer Tools",
     "tags": [
       "Augment",
       "Extension",
@@ -1137,7 +1137,7 @@
     "description": "chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据",
     "language": "Unknown",
     "pushed_at": "2025-10-20T03:45:13Z",
-    "category": "Offline Utilities",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "Chat-Log",
       "Local"
@@ -1151,7 +1151,7 @@
     "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
     "language": "Unknown",
     "pushed_at": "2026-05-23T11:15:30Z",
-    "category": "AI Reference & Prompts",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Prompts",
       "System-Prompts"
@@ -1165,7 +1165,7 @@
     "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T13:36:55Z",
-    "category": "AI Code Understanding",
+    "category": "AI Developer Tools",
     "tags": [
       "Documentation",
       "LLMs",
@@ -1180,7 +1180,7 @@
     "description": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T13:52:43Z",
-    "category": "Big Data & Scheduling",
+    "category": "Data & Infrastructure",
     "tags": [
       "Automation",
       "Workflow",
@@ -1195,7 +1195,7 @@
     "description": "",
     "language": "Python",
     "pushed_at": "2025-02-26T23:17:00Z",
-    "category": "CAD Addins",
+    "category": "Web Development & Design",
     "tags": [
       "Fusion360",
       "Python"
@@ -1209,7 +1209,7 @@
     "description": "Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity.",
     "language": "C#",
     "pushed_at": "2026-05-27T05:20:11Z",
-    "category": "Game Development",
+    "category": "Web Development & Design",
     "tags": [
       "Unity",
       "MCP",
@@ -1224,7 +1224,7 @@
     "description": "",
     "language": "Python",
     "pushed_at": "2025-06-17T10:59:18Z",
-    "category": "3D & Graphics",
+    "category": "Web Development & Design",
     "tags": [
       "3D",
       "MCP",
@@ -1239,7 +1239,7 @@
     "description": "A collection of MCP servers.",
     "language": "Unknown",
     "pushed_at": "2026-05-27T05:34:55Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "MCP",
       "Awesome"
@@ -1253,7 +1253,7 @@
     "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
     "language": "TypeScript",
     "pushed_at": "2026-05-18T02:55:49Z",
-    "category": "Web Agents",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Multimodal",
       "Desktop-Agent",
@@ -1268,7 +1268,7 @@
     "description": "🖥️ Run AI Agent in your browser.",
     "language": "Python",
     "pushed_at": "2026-05-15T07:26:24Z",
-    "category": "Web Agents",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Web-Agent",
       "Web-UI",
@@ -1283,7 +1283,7 @@
     "description": "🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation",
     "language": "Python",
     "pushed_at": "2026-05-15T13:07:59Z",
-    "category": "Web Agents",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "CAMEL",
       "Automation",
@@ -1298,7 +1298,7 @@
     "description": "Translate your application with Languine CLI powered by AI.",
     "language": "TypeScript",
     "pushed_at": "2026-05-09T11:15:40Z",
-    "category": "Localization & Translation",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "Translation",
       "CLI",
@@ -1313,7 +1313,7 @@
     "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
     "language": "Python",
     "pushed_at": "2026-06-01T18:49:47Z",
-    "category": "Web Agents",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Automation",
       "Browser-Use",
@@ -1328,7 +1328,7 @@
     "description": "An AI prompt optimizer for writing better prompts and getting better AI results.",
     "language": "TypeScript",
     "pushed_at": "2026-06-02T01:53:49Z",
-    "category": "AI Reference & Prompts",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Prompt",
       "Optimization",
@@ -1343,7 +1343,7 @@
     "description": "",
     "language": "Unknown",
     "pushed_at": "2026-05-12T15:25:06Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Cursor",
       "IDE"
@@ -1357,7 +1357,7 @@
     "description": "All Cursor AI's official download links for both the latest and older versions, making it easy for you to update, downgrade, and choose any version. 🚀",
     "language": "TypeScript",
     "pushed_at": "2026-05-31T21:52:57Z",
-    "category": "AI Reference & Prompts",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Cursor",
       "Downloads",
@@ -1372,7 +1372,7 @@
     "description": "auto sign cursor",
     "language": "Python",
     "pushed_at": "2026-05-11T08:50:54Z",
-    "category": "AI IDE Tool Workarounds",
+    "category": "AI Developer Tools",
     "tags": [
       "Cursor",
       "Auto-Free",
@@ -1387,7 +1387,7 @@
     "description": "A lightweight tool that maintains a focused view of your project structure and environment. CursorFocus automatically tracks your project files, functions, and environment variables, updating every 60 seconds to keep you informed of changes.",
     "language": "Python",
     "pushed_at": "2025-04-02T08:10:57Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Cursor",
       "Focus",
@@ -1402,7 +1402,7 @@
     "description": "Magic to turn Cursor/Windsurf as 90% of Devin",
     "language": "Python",
     "pushed_at": "2025-05-27T00:04:15Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Cursor",
       "Rules",
@@ -1417,7 +1417,7 @@
     "description": "📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors",
     "language": "JavaScript",
     "pushed_at": "2026-05-30T18:01:29Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Cursor",
       "Rules",
@@ -1432,7 +1432,7 @@
     "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. ",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T11:20:59Z",
-    "category": "Offline Utilities",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "Knowledge-Base",
       "Notion-Alternative",
@@ -1447,7 +1447,7 @@
     "description": "A programming framework for agentic AI",
     "language": "Python",
     "pushed_at": "2026-04-15T11:59:09Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "AutoGen",
       "Python"
@@ -1461,7 +1461,7 @@
     "description": "FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration.",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T13:32:10Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Knowledge-Base",
       "FastGPT",
@@ -1476,7 +1476,7 @@
     "description": "Master Repo For PearAI",
     "language": "Shell",
     "pushed_at": "2025-12-27T10:16:07Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "PearAI",
       "IDE",
@@ -1491,7 +1491,7 @@
     "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T13:53:03Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "Cline",
       "TypeScript"
@@ -1505,7 +1505,7 @@
     "description": "Let your Claude able to think",
     "language": "TypeScript",
     "pushed_at": "2026-04-07T18:24:24Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "Claude",
       "TypeScript"
@@ -1519,7 +1519,7 @@
     "description": "Production-ready platform for agentic workflow development.",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T13:51:47Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Dify",
       "TypeScript"
@@ -1533,7 +1533,7 @@
     "description": "Clean and simple starter repo using the T3 Stack along with Expo React Native",
     "language": "TypeScript",
     "pushed_at": "2026-06-02T22:15:53Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "T3",
       "TypeScript",
@@ -1548,7 +1548,7 @@
     "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T04:40:49Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Vercel",
       "AI-SDK",
@@ -1563,7 +1563,7 @@
     "description": "Instant voice cloning by MIT and MyShell. Audio foundation model.",
     "language": "Python",
     "pushed_at": "2025-04-19T16:00:00Z",
-    "category": "Audio & Voice",
+    "category": "AI Inference & Models",
     "tags": [
       "Voice-Cloning",
       "Python"
@@ -1577,7 +1577,7 @@
     "description": "Python scraper based on AI",
     "language": "Python",
     "pushed_at": "2026-06-02T08:37:21Z",
-    "category": "Web Scraping",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "Scraper",
       "AI",
@@ -1592,7 +1592,7 @@
     "description": "微信公众号文章批量下载工具，支持评论、合集下载，支持保存html/mhtml/md/pdf/docx/csv文件，保存文章内图片、视频、音频文件，支持MCP/Skill调用",
     "language": "HTML",
     "pushed_at": "2026-05-05T05:00:43Z",
-    "category": "Markdown & Publishing",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "WeChat",
       "Download",
@@ -1607,7 +1607,7 @@
     "description": "Notion-style WYSIWYG editor with AI-powered autocompletion.",
     "language": "TypeScript",
     "pushed_at": "2025-01-18T14:26:33Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "Editor",
       "Notion-Style",
@@ -1622,7 +1622,7 @@
     "description": "Use LangChain and Google Gemini to Summarize Youtube Video",
     "language": "Python",
     "pushed_at": "2024-03-26T03:09:39Z",
-    "category": "Offline Utilities",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "YouTube",
       "Summarize",
@@ -1637,7 +1637,7 @@
     "description": "A Typescript API client for AUTOMATIC111/stable-diffusion-webui",
     "language": "TypeScript",
     "pushed_at": "2023-11-17T08:31:53Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Stable-Diffusion",
       "API",
@@ -1652,7 +1652,7 @@
     "description": "AI chat for any model.",
     "language": "TypeScript",
     "pushed_at": "2024-08-03T00:38:07Z",
-    "category": "AI IDE Tools",
+    "category": "AI Developer Tools",
     "tags": [
       "Chatbot-UI",
       "TypeScript"
@@ -1666,7 +1666,7 @@
     "description": "Here are the Top 100 prompts on GPTStore, which we can use to learn and improve prompt engineering.",
     "language": "Unknown",
     "pushed_at": "2024-01-29T10:30:41Z",
-    "category": "AI Reference & Prompts",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Prompts",
       "GPTStore"
@@ -1680,7 +1680,7 @@
     "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
     "language": "TypeScript",
     "pushed_at": "2026-06-02T19:57:25Z",
-    "category": "AI Code Generation",
+    "category": "AI Developer Tools",
     "tags": [
       "Screenshot-to-Code",
       "TypeScript"
@@ -1694,7 +1694,7 @@
     "description": "为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。",
     "language": "Python",
     "pushed_at": "2026-01-25T12:33:10Z",
-    "category": "AI Reference & Prompts",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Academic",
       "Translation",
@@ -1709,7 +1709,7 @@
     "description": "深入探索精选的套壳站和必备API资源。本文为初学者和经验丰富的运营者提供一站式指南，涵盖常见问题解答和基础攻略，助您迈向套壳站副业成功之路。Dive into a curated selection of shell sites and essential APIs. This article offers a comprehensive guide for both beginners and seasoned operators, covering FAQs and basic strategies to propel you towards success in your shell site side hustle.",
     "language": "Unknown",
     "pushed_at": "2024-03-01T03:16:56Z",
-    "category": "AI Reference & Prompts",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Shell-Site",
       "API-Resources"
@@ -1723,7 +1723,7 @@
     "description": "📄  Create PDF files using React",
     "language": "TypeScript",
     "pushed_at": "2026-06-01T15:10:07Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "PDF",
       "React",
@@ -1738,7 +1738,7 @@
     "description": "Multi-Platform Package Manager for Stable Diffusion",
     "language": "C#",
     "pushed_at": "2026-06-03T03:07:00Z",
-    "category": "Web Agents",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "Stable-Diffusion",
       "C#"
@@ -1752,7 +1752,7 @@
     "description": "MidJourney client. Unofficial Node.js client",
     "language": "TypeScript",
     "pushed_at": "2025-05-07T02:48:09Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Midjourney",
       "TypeScript"
@@ -1766,7 +1766,7 @@
     "description": "Self-hosted AI coding assistant",
     "language": "Rust",
     "pushed_at": "2026-03-02T20:08:28Z",
-    "category": "AI Coding Assistants",
+    "category": "AI Developer Tools",
     "tags": [
       "Tabby",
       "Rust"
@@ -1780,7 +1780,7 @@
     "description": "",
     "language": "TypeScript",
     "pushed_at": "2023-08-17T13:11:56Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Midjourney",
       "TypeScript"
@@ -1794,7 +1794,7 @@
     "description": "midlibrary.io data spider",
     "language": "Jupyter Notebook",
     "pushed_at": "2023-06-25T03:26:18Z",
-    "category": "Web Scraping",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "Spider",
       "Midjourney",
@@ -1809,7 +1809,7 @@
     "description": "用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。",
     "language": "HTML",
     "pushed_at": "2024-03-20T07:24:11Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Bing",
       "Proxy",
@@ -1824,7 +1824,7 @@
     "description": "The agent engineering platform.",
     "language": "Python",
     "pushed_at": "2026-06-03T09:37:21Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "LangChain",
       "Python"
@@ -1838,7 +1838,7 @@
     "description": "Official Code for DragGAN (SIGGRAPH 2023)",
     "language": "Python",
     "pushed_at": "2024-05-18T17:51:40Z",
-    "category": "AI Visual Generation",
+    "category": "AI Inference & Models",
     "tags": [
       "DragGAN",
       "Python"
@@ -1852,7 +1852,7 @@
     "description": "Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)",
     "language": "Python",
     "pushed_at": "2024-09-02T09:07:21Z",
-    "category": "AI Visual Generation",
+    "category": "AI Inference & Models",
     "tags": [
       "MiniGPT",
       "Python"
@@ -1866,7 +1866,7 @@
     "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
     "language": "Python",
     "pushed_at": "2026-06-03T13:38:37Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "AutoGPT",
       "Python"
@@ -1880,7 +1880,7 @@
     "description": "使用 express 和 vue3 搭建的 ChartGPT 演示网页",
     "language": "Vue",
     "pushed_at": "2024-07-19T03:07:38Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "ChatGPT-Web",
       "Vue"
@@ -1894,7 +1894,7 @@
     "description": "My profile & the agent skills I created",
     "language": "Unknown",
     "pushed_at": "2026-05-21T10:26:38Z",
-    "category": "AI Reference & Prompts",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Profile",
       "Skills"
@@ -1908,7 +1908,7 @@
     "description": "🔥 使用cloudflare 搭建免费的 OpenAI api代理 ，解决网络无法访问问题。支持流式输出",
     "language": "HTML",
     "pushed_at": "2025-06-24T11:58:01Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "OpenAI-Proxy",
       "Cloudflare",
@@ -1923,7 +1923,7 @@
     "description": "🤖 ChatGPT 小程序 ",
     "language": "JavaScript",
     "pushed_at": "2024-05-03T07:17:46Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "WeChat",
       "ChatGPT",
@@ -1938,7 +1938,7 @@
     "description": "JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf",
     "language": "Python",
     "pushed_at": "2025-07-29T13:44:13Z",
-    "category": "Multi-Agent Systems",
+    "category": "AI Agents & Multi-Agent",
     "tags": [
       "JARVIS",
       "Python"
@@ -1952,7 +1952,7 @@
     "description": "MidJourney wrapper in Discord.",
     "language": "Python",
     "pushed_at": "2023-06-16T14:47:43Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Midjourney",
       "Python"
@@ -1966,7 +1966,7 @@
     "description": "Diffusers / Stable Diffusion in docker with a REST API, supporting various models, pipelines & schedulers.",
     "language": "Python",
     "pushed_at": "2023-09-14T12:31:00Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Diffusers",
       "Python"
@@ -1980,7 +1980,7 @@
     "description": "Your API ⇒ Paid MCP. Instantly.",
     "language": "TypeScript",
     "pushed_at": "2026-02-11T04:50:03Z",
-    "category": "AI API Utilities",
+    "category": "AI API & Platform Utilities",
     "tags": [
       "Agentic",
       "TypeScript"
@@ -1994,7 +1994,7 @@
     "description": "Fastify typescript boilerplate with Prisma",
     "language": "TypeScript",
     "pushed_at": "2024-07-16T07:11:24Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "Fastify",
       "Prisma",
@@ -2009,7 +2009,7 @@
     "description": "Switch hosts quickly!",
     "language": "TypeScript",
     "pushed_at": "2026-05-30T02:12:49Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "Hosts",
       "TypeScript"
@@ -2023,7 +2023,7 @@
     "description": "WebUI extension for ControlNet",
     "language": "Python",
     "pushed_at": "2024-08-12T13:06:00Z",
-    "category": "AI Visual Generation",
+    "category": "AI Inference & Models",
     "tags": [
       "ControlNet",
       "Stable-Diffusion",
@@ -2038,7 +2038,7 @@
     "description": "Stable Diffusion web UI",
     "language": "Python",
     "pushed_at": "2026-03-02T07:00:53Z",
-    "category": "AI Visual Generation",
+    "category": "AI Inference & Models",
     "tags": [
       "Stable-Diffusion",
       "Python"
@@ -2052,7 +2052,7 @@
     "description": "prisma, nuxt3 , vue3, mongoDB, tailwind, firebase, cloud,",
     "language": "Vue",
     "pushed_at": "2022-11-16T04:31:21Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "Prisma",
       "Nuxt",
@@ -2067,7 +2067,7 @@
     "description": "A React framework for building text editors.",
     "language": "JavaScript",
     "pushed_at": "2023-02-06T15:35:05Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "Draft.js",
       "React",
@@ -2082,7 +2082,7 @@
     "description": "The headless rich text editor framework for web artisans.",
     "language": "TypeScript",
     "pushed_at": "2026-06-03T10:18:34Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "Tiptap",
       "TypeScript"
@@ -2096,7 +2096,7 @@
     "description": "A tiny JavaScript library for making contenteditable beautiful (Like Medium's editor)",
     "language": "JavaScript",
     "pushed_at": "2016-06-27T19:41:36Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "Medium.js",
       "JavaScript"
@@ -2110,7 +2110,7 @@
     "description": "",
     "language": "JavaScript",
     "pushed_at": "2021-05-05T04:24:40Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "Auto.js",
       "JavaScript"
@@ -2124,7 +2124,7 @@
     "description": "personalise blog system",
     "language": "EJS",
     "pushed_at": "2025-12-08T03:54:55Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "Blog",
       "EJS"
@@ -2138,7 +2138,7 @@
     "description": "无视微信Web无法登录问题。获取淘宝优惠券、京东优惠券、拼多多（多多客）优惠券、苏宁易购优惠券、唯品会优惠券，通过接入淘宝联盟、京东联盟、拼多多（多多进宝）、苏宁联盟（苏宁推客）、唯品会及其对应的开放平台，获取优惠商品图片和对应商品信息，利用微信机器人推送到指定群聊。",
     "language": "Python",
     "pushed_at": "2024-03-12T11:43:44Z",
-    "category": "Web Scraping",
+    "category": "Publishing & Offline Utilities",
     "tags": [
       "WeChat-Bot",
       "Python"
@@ -2152,7 +2152,7 @@
     "description": "A decorative website background effect where SVG shapes morph and transform on scroll.",
     "language": "HTML",
     "pushed_at": "2017-05-23T11:00:34Z",
-    "category": "Web Design",
+    "category": "Web Development & Design",
     "tags": [
       "SVG",
       "Animation",
@@ -2167,7 +2167,7 @@
     "description": "JavaScript animation engine",
     "language": "JavaScript",
     "pushed_at": "2026-04-30T07:05:21Z",
-    "category": "Web Design",
+    "category": "Web Development & Design",
     "tags": [
       "Animation",
       "Anime.js",
@@ -2182,7 +2182,7 @@
     "description": "镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts",
     "language": "Unknown",
     "pushed_at": "2024-04-12T03:51:16Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "Hosts"
     ]
@@ -2195,7 +2195,7 @@
     "description": "Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:",
     "language": "Shell",
     "pushed_at": "2026-05-28T14:43:01Z",
-    "category": "Web Design",
+    "category": "Web Development & Design",
     "tags": [
       "D3.js",
       "Data-Visualization",
@@ -2210,7 +2210,7 @@
     "description": "mxGraph is a fully client side JavaScript diagramming library",
     "language": "HTML",
     "pushed_at": "2020-11-13T09:04:55Z",
-    "category": "Web Design",
+    "category": "Web Development & Design",
     "tags": [
       "mxGraph",
       "Diagramming",
@@ -2225,7 +2225,7 @@
     "description": "设计师资源大全，包含：ICON图标、Logo设计、PhotoShop插件、交互设计工具、流程图、线框图/原型图、设计博客等",
     "language": "Unknown",
     "pushed_at": "2020-01-02T08:18:40Z",
-    "category": "Web Design",
+    "category": "Web Development & Design",
     "tags": [
       "Design-Resources"
     ]
@@ -2238,7 +2238,7 @@
     "description": "商品多规格表格编辑(vue, elementUI)",
     "language": "HTML",
     "pushed_at": "2017-09-02T08:08:50Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "ElementUI",
       "Vue",
@@ -2253,7 +2253,7 @@
     "description": "JavaScript 3D Library.",
     "language": "JavaScript",
     "pushed_at": "2026-06-03T12:39:39Z",
-    "category": "Web Design",
+    "category": "Web Development & Design",
     "tags": [
       "Three.js",
       "WebGL",
@@ -2268,7 +2268,7 @@
     "description": "基于vue全家桶的移动端 电商商城  ",
     "language": "Vue",
     "pushed_at": "2018-06-25T01:24:46Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "Vue",
       "E-commerce"
@@ -2282,7 +2282,7 @@
     "description": "a vue2.0 minimal admin template ",
     "language": "JavaScript",
     "pushed_at": "2024-04-27T17:06:42Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "Vue",
       "Admin-Template",
@@ -2297,7 +2297,7 @@
     "description": "微信小程序商城，微信小程序微店",
     "language": "JavaScript",
     "pushed_at": "2026-06-02T08:05:13Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "WeChat-App",
       "E-commerce",
@@ -2312,7 +2312,7 @@
     "description": "Render After Effects animations natively on Web, Android and iOS, and React Native. http://airbnb.io/lottie/",
     "language": "JavaScript",
     "pushed_at": "2025-09-01T09:01:31Z",
-    "category": "Web Design",
+    "category": "Web Development & Design",
     "tags": [
       "Lottie",
       "Animation",
@@ -2327,7 +2327,7 @@
     "description": "ReactNative基础项目",
     "language": "JavaScript",
     "pushed_at": "2018-10-29T10:08:01Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "React-Native",
       "JavaScript"
@@ -2341,7 +2341,7 @@
     "description": "React Native 研究与实践",
     "language": "Objective-C",
     "pushed_at": "2020-07-27T04:52:57Z",
-    "category": "Web Development",
+    "category": "Web Development & Design",
     "tags": [
       "React-Native",
       "Objective-C"
