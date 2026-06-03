@@ -8,6 +8,8 @@
     "get-uncategorized": "node get-uncategorized.js",
     "save-categories": "node save-categories.js",
     "build": "node build.js",
-    "tag": "node tag.js"
+    "tag": "node tag.js",
+    "push": "node push-to-github.js",
+    "cleanup": "node cleanup-inactive.js"
   }
 }
