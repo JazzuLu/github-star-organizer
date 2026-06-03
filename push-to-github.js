@@ -5,7 +5,15 @@ import { readCache } from './utils.js';
 function runGraphQL(query, variables = {}) {
   let args = [];
   for (const [key, value] of Object.entries(variables)) {
-    if (typeof value === 'object') {
+    if (Array.isArray(value)) {
+      if (value.length === 0) {
+        args.push(`-F "${key}[]"`);
+      } else {
+        value.forEach(item => {
+          args.push(`-F "${key}[]=${item}"`);
+        });
+      }
+    } else if (typeof value === 'object' && value !== null) {
       args.push(`-F ${key}='${JSON.stringify(value)}'`);
     } else if (typeof value === 'boolean') {
       args.push(`-F ${key}=${value}`);
@@ -115,7 +123,19 @@ async function pushToGitHub() {
     const categoryName = repo.category;
     let listId = nameToIdMap.get(categoryName.toLowerCase());
 
-    // Create list if it doesn't exist
+    // Intelligent fallback: Try matching category to existing lists if name matches partially
+    if (!listId) {
+      const sortedLists = Array.from(nameToIdMap.entries()).sort((a, b) => b[0].length - a[0].length);
+      for (const [listName, existingId] of sortedLists) {
+        if (categoryName.toLowerCase().includes(listName) || listName.includes(categoryName.toLowerCase())) {
+          listId = existingId;
+          console.log(`[Heuristic] Mapping category "${categoryName}" to existing list "${listName}"`);
+          break;
+        }
+      }
+    }
+
+    // Create list if it doesn't exist and fallback failed
     if (!listId) {
       console.log(`Creating list "${categoryName}" on GitHub...`);
       try {
@@ -131,8 +151,8 @@ async function pushToGitHub() {
           continue;
         }
       } catch (err) {
-        console.error(`Error creating list "${categoryName}":`, err.message);
-        continue;
+        console.error(`Warning: Cannot create list "${categoryName}" on GitHub: ${err.message.split('\n')[0]}`);
+        continue; // Skip items in this category since list cannot be created
       }
     }
 
@@ -149,7 +169,7 @@ async function pushToGitHub() {
       currentRepos.add(repo.node_id);
       addedCount++;
     } catch (err) {
-      console.error(`Error adding ${repo.name} to list:`, err.message);
+      console.error(`Error adding ${repo.name} to list:`, err.message.split('\n')[0]);
     }
   }
 
