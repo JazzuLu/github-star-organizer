@@ -5,12 +5,9 @@
   "scripts": {
     "test": "node --test tests/**/*.test.js",
     "sync": "node sync.js",
-    "classify": "node classify.js",
+    "get-uncategorized": "node get-uncategorized.js",
+    "save-categories": "node save-categories.js",
     "build": "node build.js",
     "tag": "node tag.js"
-  },
-  "dependencies": {
-    "@google/generative-ai": "^0.11.0",
-    "dotenv": "^16.4.5"
   }
 }
