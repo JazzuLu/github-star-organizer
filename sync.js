@@ -24,7 +24,7 @@ export function mergeStars(existing, incoming) {
 export function fetchStarredWithGh() {
   try {
     const output = execSync(
-      `gh api --paginate "user/starred?per_page=100" --jq '.[] | {id: .id, name: .full_name, html_url: .html_url, description: .description, language: .language}'`,
+      `gh api --paginate "user/starred?per_page=100" --jq '.[] | {id: .id, node_id: .node_id, name: .full_name, html_url: .html_url, description: .description, language: .language, pushed_at: .pushed_at}'`,
       { maxBuffer: 10 * 1024 * 1024, encoding: 'utf8' }
     );
     return output
@@ -34,10 +34,12 @@ export function fetchStarredWithGh() {
         const parsed = JSON.parse(line);
         return {
           id: parsed.id,
+          node_id: parsed.node_id,
           name: parsed.name,
           html_url: parsed.html_url,
           description: parsed.description || '',
-          language: parsed.language || 'Unknown'
+          language: parsed.language || 'Unknown',
+          pushed_at: parsed.pushed_at || ''
         };
       });
   } catch (e) {
